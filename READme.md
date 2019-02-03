@@ -1,8 +1,6 @@
-#title
- Cipher
-##author
-Ephraim k. Kariuki
-##description
+# Cipher
+## Ephraim k. Kariuki
+## description
 -Create a JavaScript file and an HTML file in Atom for this project so that you can load your JavaScript in -the browser.
 -Start by prompting your user to enter a sentence. Then, store the sentence in a variable and print it to the console to be sure that you are doing this step correctly.
 -Create a function that will take the first and last letter of the sentence, capitalize them, and return this as a new string.
@@ -13,10 +11,10 @@ Ephraim k. Kariuki
 -Bonus: Take the final result and reverse it: "IEecnetnes a ma le".
 -Use jQuery to create two clickable images or pieces of text in your HTML page. When you click on the left one, it should show you the original sentence. If you click the other one, it should hide the original sentence and show the encoded one. Use Bootstrap to organize and style your page.
 shout outs to [Nick]() really assisted with in understanding JS functions.
-##prerequisites
+## prerequisites
 -Web browser
 -Git
-##license
+## license
 MIT License
 
 Copyright (c) 2018 EphraimKariuki
